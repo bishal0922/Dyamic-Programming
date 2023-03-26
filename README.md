@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-## Some terminologies used
+## Terminologies used
 
 Memoization: 
 
