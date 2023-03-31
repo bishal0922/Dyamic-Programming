@@ -19,7 +19,7 @@ In the same way, when you have a big math problem to solve, it can take a long t
 
 
 ## Some programs 
-- < a href = "fibonacci.py">fibonacci.py</a>
-- gridtraveler.py
-- cansum.py
+- <a href = "fibonacci.py">fibonacci.py</a>
+- <a href = "gridtraveler.py">gridtraveler.py</a>
+- <a href = "cansum.py">cansum.py</a>
 
