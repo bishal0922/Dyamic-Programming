@@ -1,6 +1,6 @@
-# Notes on Some algorithms I learn
+# Notes on some algorithms I learn/ know
 
 - [Dynamic Programming](dynamic_programming/notes.md)
-- [Graph Theiry](graph_theory/notes.md)
+- [Graph Theory](graph_theory/notes.md)
 
 <sub>Shoutout ChatGPT</sub>
