@@ -8,6 +8,11 @@ def dfs(matrix, start):
         for node in graph[curr]:
             stack.append(node)
 
+def dfs_recur(matrix, start):
+    print(start)
+
+    for node in matrix[start]:
+        dfs_recur(matrix, node)
 
 
 graph = {
@@ -19,5 +24,8 @@ graph = {
     "f": []
 }
 
+print("Iterative: ")
 dfs(graph, "a")
+print("\nRecursive: ")
+dfs_recur(graph, "a")
 
